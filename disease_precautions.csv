@@ -1,0 +1,66 @@
+,Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4,Disease_in_arabic,Precaution_1_in_arabic,Precaution_2_in_arabic,Precaution_3_in_arabic,Precaution_4_in_arabic
+0,drug reaction,consult nearest hospital,follow up,stop irritation,stop taking drug,رد فعل المخدرات,استشر أقرب مستشفى,متابعة,توقف عن التهيج,توقف عن تناول المخدرات
+1,malaria,consult nearest hospital,avoid non veg food,avoid oily food,keep mosquitos out,ملاريا,استشر أقرب مستشفى,تجنب الطعام غير الخضار,تجنب الطعام الدهنية,الحفاظ على البعوض خارج
+2,allergy,apply calamine,cover area with bandage,use ice to compress itching,,حساسية,تطبيق كالامين,منطقة الغلاف مع ضمادة,استخدم الجليد لضغط الحكة,
+3,hypothyroidism,eat healthy,exercise,get proper sleep,reduce stress,قصور الغدة الدرقية,تناول طعام صحي,ممارسه الرياضه,احصل على نوم مناسب,الحد من التوتر
+4,psoriasis,consult doctor,salt baths,stop bleeding using pressure,wash hands with warm soapy water,صدفية,استشارة الطبيب,حمامات الملح,توقف عن النزيف باستخدام الضغط,اغسل اليدين بماء صابون دافئ
+5,gerd,avoid fatty spicy food,avoid lying down after eating,exercise,maintain healthy weight,ارتجاع المريء,تجنب الطعام الحار الدهني,تجنب الاستلقاء بعد الأكل,ممارسه الرياضه,الحفاظ على الوزن الصحي
+6,chronic cholestasis,anti itch medicine,cold baths,consult doctor,eat healthy,ركود الصفراوي المزمن,الطب المضاد للحكة,الحمامات الباردة,استشارة الطبيب,تناول طعام صحي
+7,hepatitis a,consult nearest hospital,avoid fatty spicy food,medication,wash hands through,التهاب الكبد,استشر أقرب مستشفى,تجنب الطعام الحار الدهني,أدوية,اغسل اليدين
+8,osteoarthristis,acetaminophen,consult nearest hospital,follow up,salt baths,التهاب المفصل العظمى,أسِيتامينُوفين,استشر أقرب مستشفى,متابعة,حمامات الملح
+9,(vertigo) paroymsal  positional vertigo,avoid abrupt head movment,avoid sudden change in body,lie down,relax,دوار موضعي خفيف,تجنب نقل الرأس المفاجئ,تجنب التغيير المفاجئ في الجسم,تستلقي,يستريح
+10,hypoglycemia,check in pulse,consult doctor,drink sugary drinks,lie down on side,نقص سكر الدم,تحقق في النبض,استشارة الطبيب,شرب المشروبات السكرية,استلقي على الجانب
+11,acne,avoid fatty spicy food,avoid too many products,bath twice,drink plenty of water,حَبُّ الشّبَاب,تجنب الطعام الحار الدهني,تجنب الكثير من المنتجات,حمام مرتين,اشرب الكثير من الماء
+12,diabetes,consult doctor,exercise,follow up,have balanced diet,داء السكري,استشارة الطبيب,ممارسه الرياضه,متابعة,لديك نظام غذائي متوازن
+13,impetigo,consult doctor,remove scabs with wet compressed cloth,soak affected area in warm water,use antibiotics,الضيق,استشارة الطبيب,قم بإزالة الجربات بقطعة قماش مضغوطة مبللة,نقع المنطقة المصابة في الماء الدافئ,استخدام المضادات الحيوية
+14,hypertension,get proper sleep,meditation,reduce stress,salt baths,ارتفاع ضغط الدم,احصل على نوم مناسب,تأمل,الحد من التوتر,حمامات الملح
+15,peptic ulcer diseae,avoid fatty spicy food,consume probiotic food,eliminate milk,limit alcohol,مرض القرحة الهضمية,تجنب الطعام الحار الدهني,تستهلك طعام بروبيوتيك,القضاء على الحليب,الحد من الكحول
+16,dimorphic hemmorhoids(piles),avoid fatty spicy food,consume alovera juice,consume witch hazel,warm bath with epsom salt,بواسير,تجنب الطعام الحار الدهني,استخدم عصير الصبار,تستهلك عسلي الساحرة,حمام دافئ مع ملح إبسوم
+17,common cold,avoid cold food,drink vitamin c rich drinks,keep fever in check,take vapour,زُكام,تجنب الطعام البارد,اشرب المشروبات الغنية فيتامين c,حافظ على الحمى في الاختيار,خذ البخار
+18,chicken pox,avoid public places,consume neem leaves,take vaccine,use neem in bathing,حُماق,تجنب الأماكن العامة,تستهلك أوراق النيم,خذ اللقاح,استخدم النيم في الاستحمام
+19,cervical spondylosis,consult doctor,exercise,take otc pain reliver,use heating pad or cold pack,سرطان عنق الرحم,استشارة الطبيب,ممارسه الرياضه,تناول مسكن الألم,استخدم وسادة التدفئة أو حزمة باردة
+20,hyperthyroidism,eat healthy,massage,take radioactive iodine treatment,use lemon balm,فرط نشاط الغدة الدرقية,تناول طعام صحي,مارس التمارين الرياضية,خذ علاج اليود المشع,استخدم بلسم الليمون
+21,urinary tract infection,drink cranberry juice,drink plenty of water,increase vitamin c intake,take probiotics,التهاب المسالك البولية,شرب عصير التوت البري,اشرب الكثير من الماء,زيادة فيتامين c,خذ البروبيوتيك
+22,varicose veins,dont stand still for long,lie down flat and raise the leg high,use oinments,use vein compression,توسع الأوردة,لا تقف لفترة طويلة,استلقي مسطحًا ورفع الساق عالياً,استخدم المراهم,استخدام ضغط الوريد
+23,aids,avoid open cuts,consult doctor,follow up,wear ppe if possible,المعينات,تجنب التخفيضات المفتوحة,استشارة الطبيب,متابعة,ارتداء معدات الوقاية الشخصية إذا كان ذلك ممكنا
+24,paralysis (brain hemorrhage),consult doctor,eat healthy,exercise,massage,الشلل (نزيف الدماغ),استشارة الطبيب,تناول طعام صحي,ممارسه الرياضه,مساج
+25,typhoid,antiboitic therapy,consult doctor,eat high calorie vegitables,medication,التيفوئيد,العلاج المضاد,استشارة الطبيب,أكل عالي السعرات الحرارية الخضراء,أدوية
+26,hepatitis b,consult nearest hospital,eat healthy,medication,vaccination,التهاب الكبد ب,استشر أقرب مستشفى,تناول طعام صحي,أدوية,تلقيح
+27,fungal infection,bath twice,keep infected area dry,use clean cloths,use detol or neem in bathing water,تلوث فطري,حمام مرتين,حافظ على الجفاف في المنطقة الجافة,استخدم الملابس النظيفة,استخدم ديتول أو النيم في مياه الاستحمام
+28,hepatitis c,consult nearest hospital,eat healthy,medication,vaccination,التهاب الكبد ج,استشر أقرب مستشفى,تناول طعام صحي,أدوية,تلقيح
+29,migraine,consult doctor,meditation,reduce stress,use poloroid glasses in sun,صداع نصفي,استشارة الطبيب,تأمل,الحد من التوتر,استخدم نظارات البولورويد في الشمس
+30,bronchial asthma,get away from trigger,seek help,switch to loose cloothing,take deep breaths,الربو القصبي,ابتعد عن الزناد,طلب المساعدة,قم بالتبديل إلى الترشيح,خذ أنفاس عميقة
+31,alcoholic hepatitis,consult doctor,follow up,medication,stop alcohol consumption,التهاب الكبد الكحولي,استشارة الطبيب,متابعة,أدوية,توقف عن استهلاك الكحول
+32,jaundice,consume milk thistle,drink plenty of water,eat fruits and high fiberous food,medication,اليرقان,تستهلك الحليب الشوك,اشرب الكثير من الماء,أكل الفواكه والطعام المرتفع,أدوية
+33,hepatitis e,consult doctor,medication,rest,stop alcohol consumption,التهاب الكبد ه,استشارة الطبيب,أدوية,راحة,توقف عن استهلاك الكحول
+34,dengue,avoid fatty spicy food,drink papaya leaf juice,keep hydrated,keep mosquitos away,حمى الضنك,تجنب الطعام الحار الدهني,اشرب عصير أوراق البابايا,الحفاظ على رطوبة,الحفاظ على البعوض بعيدا
+35,hepatitis d,consult doctor,eat healthy,follow up,medication,التهاب الكبد د,استشارة الطبيب,تناول طعام صحي,متابعة,أدوية
+36,heart attack,call ambulance,chew or swallow asprin,keep calm,,نوبة قلبية,استدعاء سيارة الإسعاف,مضغ أو ابتلاع الأسبرين,حافظ على الهدوء,
+37,pneumonia,consult doctor,follow up,medication,rest,التهاب رئوي,استشارة الطبيب,متابعة,أدوية,راحة
+38,arthritis,exercise,massage,try acupuncture,use hot and cold therapy,التهاب المفاصل,ممارسه الرياضه,مساج,حاول الوخز بالإبر,استخدم العلاج الساخن والباردة
+39,gastroenteritis,ease back into eating,rest,stop eating solid food for while,try taking small sips of water,التهاب الجهاز الهضمي,راحة مرة أخرى إلى الأكل,راحة,توقف عن تناول الطعام الصلب لفترة,حاول تناول رشفات صغيرة من الماء
+40,tuberculosis,consult doctor,cover mouth,medication,rest,مرض الدرن,استشارة الطبيب,تغطية الفم,أدوية,راحة
+41,acute kidney failure,eat healthy,do not smoke,drink much fluid,exercise,الفشل الكلوي الحاد,تناول طعام صحي,لا تدخن,اشرب الكثير من السوائل,مارس الرياضة
+42,acute lymphocytic leukemia,practice good hygiene,avoid crowds,eat only well-cooked foods,vaccinations,سرطان الدم الليمفاوي الحاد,ممارسة النظافة الجيدة,تجنب الحشود,تناول الأطعمة المطبوخة فقط,اللقاحات
+43,adult still's disease,eat healthy,exercise,consult doctor,rest,لا يزال مرض البالغين,تناول طعام صحي,مارس التمارين الرياضية,استشارة الطبيب,راحة
+44,anal cancer,stop smoking,hpv vaccination,regular std testing,practice good hygiene,سرطان الشرج,توقف عن التدخين,تطعيم فيروس الورم الحليمي البشري,اختبار الأمراض المنقولة جنسيا العادية,ممارسة النظافة الجيدة
+45,anaphylaxis,avoid allergenic foods,remove animals from your home,consult doctor,practice good hygiene,الحساسية المفرطة,تجنب الأطعمة الحساسية,أخرج الحيوانات من منزلك,استشارة الطبيب,ممارسة النظافة الجيدة
+46,angina,reduse stress,stop smoking,eat healthy,maintaining a healthy weight.,ذبحة,إعادة استخدام الإجهاد,توقف عن التدخين,تناول طعام صحي,الحفاظ على وزن صحي.
+47,asthma,stop smoking,prevent colds,vaccinations,stay away from allergens,أزمة,توقف عن التدخين,منع نزلات البرد,اللقاحات,ابتعد عن مسببات الحساسية
+48,autoimmune hepatitis,eat healthy,stop alcohol,stop smoking,exercise,التهاب الكبد المناعي الذاتي,تناول طعام صحي,توقف عن الكحول,توقف عن التدخين,مارس الرياضة
+49,autonomic neuropathy,consult doctor,medication,reduse stress,rest,اعتلال الأعصاب اللاإرادي,استشارة الطبيب,أدوية,إعادة استخدام الإجهاد,راحة
+50,bladder cancer,stop smoking,drink plenty of liquids,eat lots of fruits and vegetables,limit exposure to certain chemicals,سرطان المثانة,توقف عن التدخين,اشرب الكثير من السوائل,أكل الكثير من الفواكه والخضروات,الحد من التعرض لبعض المواد الكيميائية
+51,bone cancer,surgery,chemotherapy,radiation therapy,cryosurgery,سرطان العظام,جراحة,العلاج الكيميائي,العلاج الإشعاعي,انصحوا
+52,cirrhosis,avoid infections,stop alcohol,eat a low-sodium dieteat healthy,,التليف الكبدي,تجنب الالتهابات,توقف عن الكحول,تناول نظام غذائي منخفض الصوديوم صحي,
+53,dementia,eat healthy,exercise,keeping your blood pressure at a healthy level,maintaining a healthy weight,مرض عقلي,تناول طعام صحي,مارس التمارين الرياضية,الحفاظ على ضغط الدم على مستوى صحي,الحفاظ على وزن صحي
+54,hand fracture,apply ice,rest,avoid moving your hand,consult doctor,كسر اليد,وضع ثلج,راحة,تجنب تحريك يدك,استشارة الطبيب
+55,latex allergy,avoid latex gloves and products,wear a medical alert bracelet,tell your employer and health care providers that you have latex allergy,consult doctor,حساسية اللاتكس,تجنب القفازات والمنتجات اللاتكس,ارتداء سوار تنبيه طبي,أخبر صاحب العمل ومقدمي الرعاية الصحية أن لديك الحساسية اللاتكس,استشارة الطبيب
+56,lung cancer,stop smoking,avoid secondhand smoke,test your home for radon,exercise,سرطان الرئة,توقف عن التدخين,تجنب الدخان السلبي,اختبر منزلك لغاز الرادون,مارس الرياضة
+57,sore throat,rest,drink fluids,gargle with saltwater,consider lozenges or hard candy,إلتهاب الحلق,راحة,سوائل شراب,الغرغرة مع المياه المالحة,ضع في اعتبارك استخدام المستحلبات أو الحلوى الصلبة
+58,stomach cancer,stop alcohol,maintaining a healthy weight,eat healthy,stop smoking,سرطان المعدة,توقف عن الكحول,الحفاظ على وزن صحي,تناول طعام صحي,توقف عن التدخين
+59,stroke,exercise,eat healthy,control your diabetes,lower your blood pressure,السكتة الدماغية,ممارسة الرياضة,تناول طعام صحي,السيطرة على مرض السكري الخاص بك,خفض ضغط الدم الخاص بك
+60,throat cancer,stop smoking,stop alcohol,hpv vaccination,eat healthy,سرطان الحنجرة,توقف عن التدخين,توقف عن الكحول,تطعيم فيروس الورم الحليمي البشري,تناول طعام صحي
+61,coma,call ambulance,medication,consult doctor,avoid coma triggers,غيبوبة,استدعاء سيارة الإسعاف,أدوية,استشارة الطبيب,تجنب محفزات الغيبوبة
+62,drug allergy,wear a medical alert bracelet,consult doctor,avoiding drugs,,حساسية من الدواء,ارتداء سوار تنبيه طبي,استشارة الطبيب,تجنب المخدرات,
+63,liver cancer,avoid and treat hepatitis b and c infections,stop alcohol,maintaining a healthy weight,treat diseases that increase liver cancer risk,سرطان الكبد,تجنب وعلاج التهاب الكبد b و c,توقف عن الكحول,الحفاظ على وزن صحي,علاج الأمراض التي تزيد من خطر الإصابة بسرطان الكبد
+64,liver problem,stop alcohol,vaccinations,medication,protect your skin,مشكلة الكبد,توقف عن الكحول,اللقاحات,أدوية,احمي بشرتك
